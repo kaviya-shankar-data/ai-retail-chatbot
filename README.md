@@ -71,3 +71,11 @@ MSc Data Science – University of Salford
 
 ### Human Support Escalation
 ![Human Support](screenshots/chatbot-human-support.jpg)
+
+---
+
+## Analytics Dashboard
+
+The chatbot interaction data is analysed using a Power BI dashboard to monitor customer support requests and chatbot performance.
+
+![Dashboard](screenshots/dashboard.png)
