@@ -54,3 +54,20 @@ Customer Interface → Backend API → GPT Model → SQL Database → Analytics 
 
 Kaviya Shankar
 MSc Data Science – University of Salford
+
+## Chatbot Interaction Examples
+
+### Order Status Query
+![Order Status](screenshots/chatbot-order-status.jpg)
+
+### Order Cancellation
+![Cancel Order](screenshots/chatbot-cancel-order.jpg)
+
+### Product Information Query
+![Product Query](screenshots/chatbot-product-query.jpg)
+
+### Exchange Request
+![Exchange Request](screenshots/chatbot-exchange-request.jpg)
+
+### Human Support Escalation
+![Human Support](screenshots/chatbot-human-support.jpg)
